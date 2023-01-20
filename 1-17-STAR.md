@@ -11,7 +11,7 @@ After, following the steps below:
 
 1. Click on the Windows Key 
    
-   ![image](https://i.pcmag.com/imagery/reviews/00xBy0JjVybodfIwWxeGCkZ-24.fit_lim.size_1050x.png)
+   <img src="https://i.pcmag.com/imagery/reviews/00xBy0JjVybodfIwWxeGCkZ-24.fit_lim.size_1050x.png" alt="image" width="200" height="200"/> 
 
 2. Type and click the **Remote Desktop Connection.**
 3. Put the address that provided to get access on the remote computer.
