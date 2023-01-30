@@ -2,8 +2,7 @@
 ---
 ### SPACE: 
 Today, I am committing to expanding my knowledge and skills by taking a Cyber Security Awareness Training and retaking an assessment for Agile. 
-### SPACE: 
-I will continue watching the video tutorial from NoteHive and to familiar more about the functions of VS Code software.
+
 #### TRACK:
 I am dedicating my time to studying and learning about the VS Code and utilizing other free resources to gain a deeper understanding of the software and its capabilities. By expanding my knowledge.
 
