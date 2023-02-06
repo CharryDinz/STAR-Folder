@@ -16,4 +16,4 @@ Attached is the link of the video:
 #### REACH:
 I am still continue to familiarize the software if how it works. Right now, I have a bit understanding what is Git and the difference between the Git vs GitHub.To ensure that I understand properly, I'm taking notes so I can easily review. 
 
-<img src="https://github.com/CharryDinz/Notes/blob/main/DemoGIt.png" alt="image" width="250" height="250"/> 
+<img src="https://github.com/CharryDinz/Notes/blob/main/images/DemoGIt.png" alt="image" width="250" height="250"/> 
