@@ -15,9 +15,6 @@ Attached is the link of the video:
 
 #### REACH:
 To ensure that I understand the proper setup of VS Code. I also practiced setting up on my own. I also did some additional research to supplement the information provided in the tutorial and to ensure that I had a complete understanding of the VS Code setup process.
+I have completed the installation process by strictly following the instructions. 
 
-Finally, I have completed the installation process by strictly following the instructions. Here is my output.
-
-<img src="https://github.com/CharryDinz/Notes/blob/main/completed.png" alt="image" width="250" height="250"/> 
-<img src="https://github.com/CharryDinz/Notes/blob/main/image.png" alt="image" width="250" height="250"/> 
 
